@@ -1,0 +1,23 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obaranovskyi/core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obaranovskyi/core/issues"
+  },
+  "homepage": "https://github.com/obaranovskyi/core#readme",
+  "dependencies": {
+    "rxjs": "^7.3.0"
+  }
+}
